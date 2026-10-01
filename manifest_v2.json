@@ -1,0 +1,37 @@
+{
+  "item": {
+    "id": "com.aigik.buckshotroulette",
+    "restype": "quick_app",
+    "name": "恶魔轮盘赌",
+    "description": "恶魔轮盘赌\n\n感谢极客之爱大佬的素材\n基本已经进行完整的重构\n已成功移植到小米手环10 Pro与9 Pro\n\n用户QQ群聊：936274236",
+    "preview": [
+      "media/1000037843.jpg"
+    ],
+    "icon": "media/1000037842.jpg",
+    "cover": "media/1000037847.jpg",
+    "author": [
+      {
+        "name": "WhenTC",
+        "bindABAccount": true
+      },
+      {
+        "name": "凌晨2点的橡皮",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.1.0",
+      "file_name": "downloads/com.aigik.buckshotroulette.debug.1.1.0.rpk",
+      "versionCode": 2
+    },
+    "xmb10p": {
+      "version": "1.1.0",
+      "file_name": "downloads/com.aigik.buckshotroulette.debug.1.1.0.rpk",
+      "versionCode": 2
+    }
+  },
+  "ext": {}
+}
